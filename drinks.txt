@@ -1,0 +1,8 @@
+coke
+water
+orange juice
+wine
+vodka
+beer
+fanta
+lemonade
